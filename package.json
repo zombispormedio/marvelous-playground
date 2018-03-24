@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "xo",
-    "develop": "nodemon --exec \"node --inspect scripts/server\""
+    "develop": "nodemon --exec \"node --inspect scripts/server\"",
+    "volumes-to-csv": "node scripts/volumesToCSV"
   },
   "repository": {
     "type": "git",
