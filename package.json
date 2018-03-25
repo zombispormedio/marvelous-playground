@@ -30,6 +30,7 @@
     "graphql-tools": "^2.23.1",
     "graphql-type-json": "^0.2.0",
     "lowdb": "^1.0.0",
+    "ora": "^2.0.0",
     "pino": "^4.15.0",
     "ramda": "^0.25.0",
     "url-join": "^4.0.0"
